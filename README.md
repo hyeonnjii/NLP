@@ -11,3 +11,7 @@ The project name is "Emotion Suggestion Service" which classifies and informs em
 - The program allows the users to choose by presenting more detailed emotion keywords based on the user's answers.
 - Based on the chosen emotions, the service offers advice or solutions to them.
 - * However, this code is limited for the process of presenting the emotion keywords in detail in this service.
+ 
+</br>
+</br>
+-- Using "감성 대화 Training" data source by "감성대화 말뭉치, AI Hub Emotional Conversation Corpus". --
